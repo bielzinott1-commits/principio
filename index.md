@@ -80,7 +80,7 @@ Meu objetivo é transformar ideias em experiências digitais modernas.
 
 <div class="circle">
 
-<img src="https://avatars.githubusercontent.com/octocat?v=4">
+<img src="https://avatars.githubusercontent.com/bielzinott1-commits?v=4">
 
 </div>
 
